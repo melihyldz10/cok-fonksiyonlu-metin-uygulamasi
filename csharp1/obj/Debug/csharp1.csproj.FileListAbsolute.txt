@@ -1,0 +1,15 @@
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.Form1.resources
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.Properties.Resources.resources
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\csharp1.exe.config
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\csharp1.exe
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\csharp1.pdb
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.exe
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.pdb
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\Guna.UI.dll
+C:\Users\melih\source\repos\csharp1\csharp1\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\melih\source\repos\csharp1\csharp1\obj\Debug\csharp1.csproj.CopyComplete
